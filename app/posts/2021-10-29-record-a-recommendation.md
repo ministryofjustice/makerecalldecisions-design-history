@@ -1,5 +1,5 @@
 ---
-  title: Record a recommendation
+  title: Record a recommendation - version 0
   description: Defining end of the journey concept
   date: 2021-10-29
   screenshots:
