@@ -5,13 +5,14 @@
   "engines": {
     "node": "^15.0.0"
   },
-  "description": "A place for documenting GOV.UK service designs",
+  "description": "Documentation of the HMPPS Recall Decisions team",
   "keywords": [
-    "becoming-a-teacher",
+    "HMPPS",
+    "Recall",
     "govuk",
     "11ty"
   ],
-  "author": "Becoming a teacher team",
+  "author": "Making Recall Decisions team",
   "license": "MIT",
   "homepage": "https://design-history.herokuapp.com",
   "repository": "github:DFE-Digital/govuk-design-history",

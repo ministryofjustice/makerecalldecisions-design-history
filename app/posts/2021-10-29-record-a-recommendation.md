@@ -1,5 +1,5 @@
 ---
-  title: Record a recommendation - version 0
+  title: Record a recommendation
   description: Defining end of the journey concept
   date: 2021-10-29
   screenshots:
@@ -33,3 +33,5 @@ Having a way to record a decision not to recall was seen as a big benefit of the
 >“It's a good opportunity to put the rationale in especially if you're not making the decision to recall.”
 
 >“Having the opportunity to use this tool and put your recommendation regardless of what they (SPO) think would be really useful. I've been in a situation where you think it should be a recall and the SPO doesn't agree - it's awkward to go into Delius to say this is the decision but I don't agree. Having it here would be good, your reasoning is recorded really clearly as to why you thought or didn't think there should be a recall.”
+
+<img src="/checklist/checklist.png"/><br>
