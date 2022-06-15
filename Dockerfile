@@ -14,6 +14,7 @@ RUN apt-get update && \
 COPY . .
 
 RUN npm install
+RUN npm run prestart
 
 RUN chown -R appuser:appgroup /app
 
