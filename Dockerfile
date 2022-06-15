@@ -14,6 +14,13 @@ RUN apt-get update && \
 COPY . .
 
 RUN npm install
+
+COPY app/ ./app
+COPY etc/ ./etc
+COPY lib/ ./lib
+COPY *.js ./
+COPY start.sh ./
+
 RUN npm run prestart
 
 RUN chown -R appuser:appgroup /app
