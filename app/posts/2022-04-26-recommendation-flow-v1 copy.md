@@ -34,10 +34,44 @@ Protective factors are things that help a person on probation to integrate back 
 * support programmes (for example, drugs or alcohol rehabilitation)
 
 ### User research - what we did
-Insert UR notes go in here
+We conducted research with a variety of users that included:
+
+* probation practitioners
+* senior probation officers
+* assistant chief officers
+
+We asked questions about the decision making process and also observed users interacting with the new checklist. We wanted to learn how they develop and record the rationale behind a decision.
+
+This let us see how our prompts fit with current practices – whether they compliment or duplicate them. We also tested whether the prompts were:
+
+* understandable
+* relevant
+* easy to answer
+
+Some of the questions in the checklist are about facts, for example: 
+
+Has the person on probation been considered for recall before? 
+
+Others are questions of judgement, like:
+
+If the behaviour continues, will it increase the risk? 
+
 
 ### Research Findings
-Insert here
+Some users welcomed the prompts to reflect on questions of judgement. But they expected the system to provide - not ask for - answers to factual questions. This is because these facts appear elsewhere within the service (or other connected services) already. 
+
+Users saw this as unnecessary duplicate work. 
+
+> “I'm going to be writing stuff twice.” 
+
+> “To me as a practitioner, this looks like another form at a time when I'm swamped with forms.” 
+
+Users need to preserve their time and cognitive resources to make decisions. So rather than introduce new or duplicate tasks, the design challenge is for the service to replace decision processing tasks they do already. 
+
+> “It's being recorded in NDelius, which is really great, because that means I haven't got to go into another program and type the result and duplicate what I've just done.” 
+
+> “For this to then (complete) other bits of the process, that's helpful.”
+
 
 ### Screens
 <img src="/rec-flow/rf-1-risk.png"/><br>
