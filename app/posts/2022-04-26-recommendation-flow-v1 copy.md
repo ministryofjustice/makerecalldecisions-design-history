@@ -33,6 +33,8 @@ Protective factors are things that help a person on probation to integrate back 
 * having somewhere to live
 * support programmes (for example, drugs or alcohol rehabilitation)
 
+<img src="/rec-flow/recflow-research.png"/>
+
 ### User research - what we did
 We conducted research with a variety of users that included:
 
