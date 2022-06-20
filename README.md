@@ -2,7 +2,7 @@
 
 A place for you to document your GOV.UK service designs.
 
-<https://design-history.herokuapp.com>
+<https://makerecalldecisions-design-history-main.apps.live.cloud-platform.service.justice.gov.uk>
 
 ## Purpose of this project
 
