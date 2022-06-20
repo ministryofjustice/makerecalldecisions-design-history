@@ -1,7 +1,7 @@
 ---
   title: Make a recommendation
   description: Building on the recommendation checklist to make it interactive
-  date: 2022-26-04
+  date: 2022-04-26
 ---
 
 ## Iterating the ‘make a recommendation’ feature

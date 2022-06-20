@@ -1,7 +1,7 @@
 ---
   title: Alpha
   description: Final wrap up of prototype and alpha
-  date: 2022-26-04
+  date: 2022-04-26
 ---
 
 ## Final prototype 
