@@ -1,7 +1,7 @@
 ---
 layout: collection
-title: "Making Recall Decisions service"
-description: "A record of how Making Recall Decisions has developed over time."
+title: "Decide if someone should be recalled or not"
+description: "A record of the work to develop a service helping probation making decisions around recall"
 pagination:
   data: collections.all
   reverse: true
