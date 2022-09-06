@@ -7,9 +7,9 @@
 ### Moving away from the licence history timeline
 The alpha prototype included a licence history timeline.
 
-<img src="/contact-his/licence-history.png"/>
-
 The idea was that the service could curate important events in the history of a person on licence. We could highlight significant things like when someone started on licence, previous recalls, missed appointments, failed drug tests or interactions with the police. 
+
+<img src="/contact-his/licence-history.png"/>
 
 The hope was that the timeline would help probation practitioners to:
 * see behaviour and compliance over the course of a licence at a glance
