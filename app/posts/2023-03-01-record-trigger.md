@@ -17,7 +17,9 @@ Our subject matter experts (SMEs) told us that the events that lead to recall ca
 
 We designed an MVP user journey to record what causes a probation officer (PO) to consider recall. 
 
-To test the business need, the SMEs had reported and see if there were any corresponding user needs, we needed to put our design in front of users before the end of Private Beta. 
+<img src="/trigger/consider.png"/>
+
+To test the business need the SMEs had reported and see if there were any corresponding user needs, we needed to put our design in front of users before the end of Private Beta. 
 
 We used the following process to design the journey rapidly:
 * Wireframed 2 different user journeys for the ‘consider a recall’ journey using Miro.
@@ -26,6 +28,9 @@ We used the following process to design the journey rapidly:
 * Prototyped the journey using the GOV.UK prototyping kit. 
 
 The journey included a ‘stop and think’ screen. This was designed to stop the PO after they had recorded what made them think about recalling the person on probation and get them to talk to their line manager (SPO) about it. They could only continue with their journey once the SPO had recorded their decision in the service.  
+
+<img src="/trigger/stopthink.png"/>
+<img src="/trigger/record.png"/>
 
 ### User research - what we did
 We spoke to 5 practitioners who all had a minimum of 10 years’ experience each:
@@ -42,7 +47,4 @@ We need to carry out further testing on the ‘Consider a recall’ journey (ide
 
 We should also do some further research with other regions and specialist areas to understand what they would need from the service.
 
-### Screenshots
-
-<img src="/contact-his/xxx.png"/>
 
