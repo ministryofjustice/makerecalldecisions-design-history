@@ -1,5 +1,5 @@
 ---
-  title: Adding contacts - recommendation flow
+  title: Adding contacts to a recommendation
   description: Record a recommendation and add relevant contacts as evidence
   date: 2022-09-13
 ---
