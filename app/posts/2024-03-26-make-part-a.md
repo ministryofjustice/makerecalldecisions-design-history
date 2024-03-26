@@ -57,7 +57,7 @@ We rewrote this as:
 
 <img src="/part-a/rpsond.png"/>
 
-There was also a third page added to the journey which also asked a similar question. 
+There was also a <a href="https://makerecalldecisions-design-history-main.apps.live.cloud-platform.service.justice.gov.uk/record-trigger/">third question</a> added to the journey which also asked a similar question again. 
 
 ### User feedback 
 We tested the flow from questions into a tasklist and then watched people completing each section of the tasklist. 
