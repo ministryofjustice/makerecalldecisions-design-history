@@ -4,7 +4,6 @@
   date: 2022-10-09
 ---
 
-### Decision not to recall
 There’s always an incident or escalating concern that leads to a decision to recall a person on.  
 
 If someone breaches their licence conditions, a practitioner might decide that they do not need to be recalled. This is because they think the risk is manageable in the community. 
@@ -47,7 +46,7 @@ Quotes from users:
 
 > “Having read a number of decision not to recall letters, I did think that the standard was much better.”
 
-## Next steps
+### Next steps
 After working with the subject matter expert on the proposed new decision not to recall letter, we realised that some of our prompts could be improved to make the letters easier to write. We will change the prompts as a result of this work. If the proposed new letter gets approved, we will also change the flow of our questions because some of them will no longer be needed.
 
 We would also like to test the letter with people on probation.
